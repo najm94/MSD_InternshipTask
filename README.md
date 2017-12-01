@@ -1,4 +1,4 @@
-# MSD_InternshipTask
+# MSD Internship Task
 
 MovieLens dataset:
 
